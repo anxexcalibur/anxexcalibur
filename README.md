@@ -2,7 +2,7 @@
 ## Olá Seres, Meu nome é Gabriel!😊
 #### 👨‍🎓 Estudante de Tecnologia pelo Instituto Federal de Brasília. 
 #### 🕵️‍♂️Apaixonado por aprendizagem.
-#### 🐱‍🏍 Aprendendo: HTML, CSS, Java script.
+
 #### 🐱‍🏍 Proficiente em Python
 
 <div align="center">
