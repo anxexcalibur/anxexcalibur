@@ -19,3 +19,6 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
    <img align="right" src="https://i.picasion.com/pic92/886f511d1d5a70f55c84e2e5240cfec1.gif" width="200em" height="200em" border="" alt="https://picasion.com/" /></a><br />
 </div>
+
+![Minhas Qualidades](QUALIDADES.png)
+
