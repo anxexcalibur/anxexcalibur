@@ -1,10 +1,10 @@
 ## Olá Seres, Meu nome é Gabriel! 😊
 #### 👨‍🎓 Estudante de Tecnologia pelo Instituto Federal de Brasília. 
-#### 🕵️‍♂️ Apaixonado por aprendizagem e desenvolvimento constante.
+#### 🕵️‍♂️ Apaixonado por aprendizagem e Fílosofia e Saúde Mental.
 
 
 Atualmente, estou me aprofundando no ecossistema **React**, explorando a construção de interfaces ricas e dinâmicas.  
-Mas minha curiosidade não para por aí: também estou sempre de olho em novas tecnologias, frameworks e áreas da programação para expandir meu leque de habilidades.
+Mas minha curiosidade não para por aí: também estou sempre de olho em novas tecnologias, frameworks e áreas da programação para expandir meu leque de habilidades .
 
 ### 🚀 Projetos em destaque:
 
