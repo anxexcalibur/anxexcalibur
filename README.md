@@ -1,39 +1,58 @@
-## Olá Seres, Meu nome é Gabriel! 😊
-#### 👨‍🎓 Estudante de Tecnologia pelo Instituto Federal de Brasília. 
-#### 🕵️‍♂️ Apaixonado por aprendizagem e Fílosofia e Saúde Mental.
+## 🌌 Olá Seres, sou o Gabriel Galvão! 
 
+> *"Aquele que olha para fora, sonha; aquele que olha para dentro, desperta."* — **Carl Jung**
 
-Atualmente, estou me aprofundando no ecossistema **React**, explorando a construção de interfaces ricas e dinâmicas.  
-Mas minha curiosidade não para por aí: também estou sempre de olho em novas tecnologias, frameworks e áreas da programação para expandir meu leque de habilidades .
+### 👨‍💻 Sobre mim
+Sou um **Desenvolvedor em formação** pelo **Instituto Federal de Brasília (IFB)**, focado em criar experiências digitais que unam performance e propósito. Minha jornada é movida pela intersecção entre **Tecnologia, Psicologia Analítica e Filosofia**.
 
-### 🚀 Projetos em destaque:
-
-- 🎮 **TCC - Ayelen: Caminho das Estrelas**  
-  *Um jogo desenvolvido como Trabalho de Conclusão de Curso, explorando narrativa, desafios e interatividade.*  
-  [Acesse aqui](https://github.com/anxexcalibur/Ayelen-Caminho-Das-Estrelas-)
-
-- 🛒 **E-commerce Fitness (React + Vite)**  
-  *Aplicação web para venda de produtos fitness, com foco em experiência do usuário e performance.*  
-  [Acesse aqui](https://github.com/anxexcalibur/Ecommerce-app)
+* **Foco Atual:** Especialização no ecossistema **React** e automação com **Python**.
+* **Interesses:** Game Design (narrativas arquetípicas), Saúde Mental e interfaces dinâmicas.
+* **Hobby:** Skatista nas horas vagas (equilíbrio e disciplina dentro e fora do código).
 
 ---
 
+### 🚀 Projetos em Destaque
+
+| Projeto | Descrição | Stack | Link |
+| :--- | :--- | :--- | :--- |
+| **Ayelen: Caminho das Estrelas** | Jogo 2D inspirado em mitologias Tupi-Guarani (TCC). | Game Design / Logic | [Visualizar](https://github.com/anxexcalibur/Ayelen-Caminho-Das-Estrelas-) |
+| **E-commerce Fitness** | Loja virtual com foco em UX e alta performance. | React + Vite | [Visualizar](https://github.com/anxexcalibur/Ecommerce-app) |
+
+---
+
+### 🛠️ Toolbox Tecnológica
+
+<div style="display: inline_block">
+  <img align="center" alt="JS" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="React" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Python" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="HTML" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Supabase" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg">
+</div>
+
+---
+
+### 📊 Github Stats
+
 <div align="center">
-  <a href="#">
-  <img height="160em"  width="42%"  src="https://github-readme-stats.vercel.app/api?username=anxexcalibur&show_icons=true&theme=black&include_all_commits=true&count_private=true"/>
-  <img height="160em" width="50%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=anxexcalibur&layout=compact&langs_count=7&theme=black"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=anxexcalibur&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anxexcalibur&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-<div> 
+---
+
+### 🤝 Conecte-se Comigo
+<div align="left">
   <a href="https://www.linkedin.com/in/gabriel-galv%C3%A3o-150b7a208/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a> 
+  <a href="mailto:gdszcoimbra@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-</div>
+---
+<p align="center">
+  <i>Desenvolvido com foco na Jornada do Herói e no Jogo Invisível. ⚔️</i>
+</p>
